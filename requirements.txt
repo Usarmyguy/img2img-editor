@@ -1,3 +1,4 @@
 gradio
-replicate
+huggingface_hub
 pillow
+requests
